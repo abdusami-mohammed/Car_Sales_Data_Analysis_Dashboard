@@ -1,5 +1,6 @@
 # Car Sales Data Analysis Dashboard
 Driving Car Sales Strategy:  An Interactive Power BI Dashboard Uncovering Trends, Sales Growth, and Customer Insights.
+### [View the PowerBi Dashboard](https://github.com/abdusami-mohammed/Car_Sales_Data_Analysis_Dashboard/blob/47e5912bc1cadb66081a28095e1a5eee2c60a7c4/Dashboard.pbix)
 
 ## Project Overview
 This project features a Power BI dashboard developed for a car sales business to analyze and visualize their sales data from 2022-2023. With data on car sales, customer demographics, dealer information, and more (24K rows), this dashboard delivers a comprehensive view of key performance metrics to facilitate data-driven decision-making.
