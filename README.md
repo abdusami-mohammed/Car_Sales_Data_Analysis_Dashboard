@@ -4,6 +4,9 @@ Driving Car Sales Strategy:  An Interactive Power BI Dashboard Uncovering Trends
 ## Project Overview
 This project features a Power BI dashboard developed for a car sales business to analyze and visualize their sales data from 2022-2023. With data on car sales, customer demographics, dealer information, and more (24K rows), this dashboard delivers a comprehensive view of key performance metrics to facilitate data-driven decision-making.
 
+![Excel Sales Analysis Dashboard](https://github.com/abdusami-mohammed/Car_Sales_Data_Analysis_Dashboard/blob/023b3950f13f58843ec12751c2dabcbecad3c52a/Images/Cars%20Sales%20Dashboard_page-1.jpg)
+
+
 ## Project Goals
 - Create interactive, user-friendly visualizations to assist business owners in understanding sales trends.
 - Track essential KPIs like total sales, average prices, and sales growth over time.
@@ -18,6 +21,9 @@ Multiple key metrics were defined to provide insights on performance, growth, an
 
 **Visualizations**
 The dashboard includes an Overview and a Details view, accessible via a toggle button. Green and red color indicators are used across visuals to signal positive and negative changes.
+
+![Excel Sales Analysis Dashboard](https://github.com/abdusami-mohammed/Car_Sales_Data_Analysis_Dashboard/blob/023b3950f13f58843ec12751c2dabcbecad3c52a/Images/Cars%20Sales%20Dashboard_page-2.jpg)
+
 
 ## Key Metrics (KPIs)
 ### Sales Metrics
